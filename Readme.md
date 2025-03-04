@@ -27,4 +27,4 @@
   <br/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{jmjs1008})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jmjs1008})](https://solved.ac/{jmjs1008})
