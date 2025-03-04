@@ -26,5 +26,4 @@
  
   <br/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jmjs1008})](https://solved.ac/{jmjs1008})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=본인의 백준 ID)](https://solved.ac/jmjs1008/)
