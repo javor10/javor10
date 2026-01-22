@@ -22,9 +22,4 @@
    <br/>
    <br/>
  
-#### :keyboard: Baekjoon TIER
- 
-  <br/>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmjs1008)](https://solved.ac/jmjs1008)
 
